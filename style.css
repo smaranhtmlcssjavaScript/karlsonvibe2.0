@@ -1,0 +1,33 @@
+body{
+ text-align: center;
+    background-color: black;
+}
+#h1 {
+    color:lime;
+    font-size:80px;
+    font-family:monospace;
+}
+#img1 {
+    border-style: solid;
+    border-color: white;
+    margin-right: 100px;
+}
+#img2 {
+    border-style: solid;
+    border-color: white;
+}
+#img3 {
+    border-style: solid;
+    border-color: white;
+    margin-right:100px;
+    margin-top:40px;
+}
+#img4 {
+    border-style: solid;
+    border-color: white;
+}
+#date {
+    font-family:monospace;
+    font-size:40px;
+    color:white;
+}
